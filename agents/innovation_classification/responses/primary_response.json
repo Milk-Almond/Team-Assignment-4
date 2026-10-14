@@ -1,0 +1,50 @@
+{
+  "agent": {
+    "name": "Innovation Classification Agent",
+    "specialty": "invention, innovation, commercialization, and contextual significance",
+    "version": "lab4-team-candidate-v0.1"
+  },
+  "analytical_question": "What is the documented innovation stage and degree of change, and how significant could this application be for the named organization over 12 months?",
+  "general_et_finding": "The underlying LLM is stipulated as an existing external text-generation service in this teaching case. No new technical creation by any case organization is evidenced. The scenario supports use of existing knowledge; it does not establish global invention priority, a new capability breakthrough, or this organization's commercialization. This technology-level finding is held constant across cases.",
+  "application_finding": "Against manual knowledge-base search and reply drafting, the proposed human-reviewed draft workflow is a prospective, provisionally incremental process innovation: it may improve a meaningful task while human approval, the support service, and its basic delivery remain. No local implementation or benefit is evidenced. A breakthrough workflow classification would require observed redesign of core roles, autonomy, or service delivery beyond this specified use.",
+  "evidence": [
+    {
+      "claim": "The same existing external LLM and human-reviewed drafting application are specified in all three cases.",
+      "source_or_reference": "cases/primary.json; cases/context_contrast.json; cases/borderline.json",
+      "date_or_recency": "Constructed for Team Lab 4, 2026-10-13",
+      "evidence_type": "Scenario assumption",
+      "notes": "Supports a controlled comparison, not a historical or market claim."
+    },
+    {
+      "claim": "The course distinguishes useful technical creation, value-creating application of knowledge, and entrepreneurship/commercialization.",
+      "source_or_reference": "Course Chapter 5, Invention, Innovation, Entrepreneurship, sections 5.1-5.2",
+      "date_or_recency": "Fall 2026 course material, inspected 2026-10-13",
+      "evidence_type": "Course framework",
+      "notes": "Conceptual classification basis; no firm outcome is established."
+    },
+    {
+      "claim": "Harbor's core client contracts are assumed to bill by agent hour; no outcome is observed.",
+      "source_or_reference": "cases/primary.json",
+      "date_or_recency": "Constructed 2026-10-13",
+      "evidence_type": "Scenario assumption",
+      "notes": "Supports conditional exposure only, not actual repricing or loss."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "A real rollout might change roles, customer channels or pricing beyond the narrow specified workflow; that could shift the application or organizational classification. Verify the actual workflow before changing labels.",
+    "Moderate is a live competing organizational classification: clients may retain hourly terms and value human quality. Contract renewals, margin, utilization and client demand would distinguish it from High."
+  ],
+  "confidence_and_uncertainty": "Moderate in the conditional stage and application classification given the stipulated baseline; low in realized value or business-model effects because there is no deployment or customer evidence.",
+  "value_opportunity_implication": "If measured, reviewed drafts could free agent time or improve response consistency; value capture depends on contracts, quality, full costs and customer behavior.",
+  "risk_governance_implication": "An early commitment may incur integration and review costs before benefits are known; waiting may miss a useful process improvement. Keep human approval and monitor accuracy and rework.",
+  "recommendation_management_implication": "Treat the use as a prospective process innovation and test the classification assumptions in a bounded pilot; send final adoption and readiness decisions to their specialists and human managers.",
+  "change_monitoring_triggers": [
+    "Verified deployment and before/after workflow evidence",
+    "Measured quality, handling time, full reviewed cost and customer response",
+    "Contract renewal or pricing change linked to the workflow"
+  ],
+  "abstention_or_more_information_needed": [
+    "Do not claim achieved local innovation, profitable commercialization, or actual business-model displacement without deployment, revenue/cost and client evidence."
+  ],
+  "organization_specific_finding": "Harbor is new to this application, but that is organizational novelty only. Organizational Significance: High, conditional over 12 months, because the assumed hourly-billed core creates a credible path from faster handling to pressure on billable hours or pricing. This is exposure, not observed loss. A Moderate classification remains plausible if saved time raises capacity or quality while contracts and margins remain stable. No new venture or profitable commercialization is evidenced."
+}
