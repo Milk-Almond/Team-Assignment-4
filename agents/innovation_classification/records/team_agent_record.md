@@ -7,7 +7,7 @@
 | Specialist | Innovation Classification Agent, SubAgent 2 |
 | Version | `lab4-team-candidate-v0.1` |
 | Workspace | `Milk-Almond/Team-Assignment-4` |
-| Branch / commit | To be filled from the review PR commit after publication. |
+| Branch / content commit | `codex/lab4-innovation-classification` / `82f52287b5b6afe6a945d73b4a9ea9023654d826` (candidate agent, cases, outputs, and checks). Later record-only commits may follow. |
 | Prepared | 2026-10-13, America/New_York, from four candidate repositories and course materials. |
 | Team approval | **Pending.** No classroom vote, named human reviewers, or in-class timing evidence was supplied. This document must not be represented as a team-approved record until the team records its decision. |
 | Frozen scaffold | MASY1800 common context/output files and four course tools copied byte-for-byte into this previously empty team repository; `FROZEN_CORE_SHA256.txt` is unchanged. |
@@ -35,7 +35,7 @@ Evidence is limited to course conceptual material, the four candidate artifacts,
 
 ## D. Testing, ambiguity, and dissent
 
-The [test record](test_record.md), three case JSON files and three saved outputs provide a common case, an exact-application context contrast, and a borderline case. The local script checks output-contract keys and the intended stable/change relationship. These are model-assisted demonstrations, not independent or field tests.
+The [test record](test_record.md), three case JSON files and three saved outputs provide a common case, an exact-application context contrast, and a borderline case. The local script checks output-contract keys and the intended stable/change relationship. The frozen-core check, prompt construction, all three course response validations, and `tests/check_cases.py` passed on 2026-10-13. These are model-assisted demonstrations, not independent or field tests.
 
 **Unresolved candidate difference:** Anisimova's organizational breakthrough threshold includes a material role or value-delivery redesign, while the other candidates often describe a technical capability breakthrough against a task baseline. The team candidate requires every incremental/breakthrough label to state its **unit and comparator**. A case can be incremental in the narrow application yet materially important to a firm. The classroom team should challenge whether a large workflow redesign with unchanged technical capability deserves the application-level breakthrough label. A before/after workflow map, role allocation, and customer value evidence would resolve a specific case.
 
