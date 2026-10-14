@@ -1,4 +1,4 @@
-# Innovation Classification Agent — `lab4-team-candidate-v0.1`
+# Innovation Classification Agent — `lab4-team-approved-v1.0`
 
 ## Authority
 
