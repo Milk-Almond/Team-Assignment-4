@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Existing large-language-model text generation service",
+  "intended_application": "Draft replies to routine customer-support messages from an approved knowledge base; a human agent reviews and sends each reply",
+  "organization": "Northstar Components, a fictional manufacturer with an internal warranty desk",
+  "industry_sector": "Manufacturing",
+  "business_need": "Improve response quality and handling time without removing human approval",
+  "users_stakeholders": "Support agents, product customers, quality reviewers",
+  "adoption_posture": "Conservative; considering a bounded pilot",
+  "capabilities_constraints": "Current agents search a knowledge base and draft replies manually. In this constructed scenario, the desk is a cost center and the firm's core revenue comes from product sales; no pilot, pricing, or productivity outcome has been observed.",
+  "risk_consequence_context": "Incorrect answers could harm customers; human approval and escalation are required",
+  "management_question": "Classify the proposed use and its possible significance over the next 12 months",
+  "time_horizon": "12 months",
+  "additional_context": "Constructed teaching case. The LLM is the same existing external service and the intended application is identical to the primary case. The business model is a scenario assumption, not a verified real-company fact."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Existing large-language-model text generation service",
+  "intended_application": "Draft replies to routine customer-support messages from an approved knowledge base; a human agent reviews and sends each reply",
+  "organization": "Harbor Support Services, a fictional contact-center outsourcer",
+  "industry_sector": "Business-process outsourcing",
+  "business_need": "Improve response quality and handling time without removing human approval",
+  "users_stakeholders": "Support agents, clients, end customers, quality reviewers",
+  "adoption_posture": "Moderate; considering a bounded pilot",
+  "capabilities_constraints": "Current agents search a knowledge base and draft replies manually. In this constructed scenario, most client contracts bill by agent hour; no pilot, repricing, or productivity outcome has been observed.",
+  "risk_consequence_context": "Incorrect answers could harm clients; human approval and escalation are required",
+  "management_question": "Classify the proposed use and its possible significance over the next 12 months",
+  "time_horizon": "12 months",
+  "additional_context": "Constructed teaching case. The LLM is an existing external service, not a model invented by Harbor. The stated contract mix is a scenario assumption, not a verified real-company fact."
+}

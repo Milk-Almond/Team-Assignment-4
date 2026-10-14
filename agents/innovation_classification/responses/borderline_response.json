@@ -1,0 +1,51 @@
+{
+  "agent": {
+    "name": "Innovation Classification Agent",
+    "specialty": "invention, innovation, commercialization, and contextual significance",
+    "version": "lab4-team-candidate-v0.1"
+  },
+  "analytical_question": "What is the documented innovation stage and degree of change, and how significant could this application be for the named organization over 12 months?",
+  "general_et_finding": "The underlying LLM is stipulated as an existing external text-generation service in this teaching case. No new technical creation by any case organization is evidenced. The scenario supports use of existing knowledge; it does not establish global invention priority, a new capability breakthrough, or this organization's commercialization. This technology-level finding is held constant across cases.",
+  "application_finding": "The stated human-reviewed drafting use could be prospective incremental process innovation relative to a manual baseline. The manager also says it is 'already in use,' so implemented innovation is plausible, but no deployment record is supplied. If core roles or delivery were redesigned, breakthrough organizational change could be plausible. The prior workflow and actual operating model are unknown, so no clean degree-of-change label is justified.",
+  "evidence": [
+    {
+      "claim": "The same existing external LLM and human-reviewed drafting application are specified in all three cases.",
+      "source_or_reference": "cases/primary.json; cases/context_contrast.json; cases/borderline.json",
+      "date_or_recency": "Constructed for Team Lab 4, 2026-10-13",
+      "evidence_type": "Scenario assumption",
+      "notes": "Supports a controlled comparison, not a historical or market claim."
+    },
+    {
+      "claim": "The course distinguishes useful technical creation, value-creating application of knowledge, and entrepreneurship/commercialization.",
+      "source_or_reference": "Course Chapter 5, Invention, Innovation, Entrepreneurship, sections 5.1-5.2",
+      "date_or_recency": "Fall 2026 course material, inspected 2026-10-13",
+      "evidence_type": "Course framework",
+      "notes": "Conceptual classification basis; no firm outcome is established."
+    },
+    {
+      "claim": "The manager's novelty and deployment labels lack corroborating records.",
+      "source_or_reference": "cases/borderline.json",
+      "date_or_recency": "Constructed 2026-10-13",
+      "evidence_type": "Unverified scenario assertion",
+      "notes": "A quote is not proof of implementation, technical invention or commercial success."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Prospective incremental and implemented incremental are competing stage classifications until dated production-use records are checked.",
+    "Incremental and breakthrough organizational change remain competing degree classifications until before/after roles, autonomy and service-delivery evidence is checked.",
+    "No business-model exposure can be graded without revenue mix and customer terms."
+  ],
+  "confidence_and_uncertainty": "Moderate that the supplied claim cannot establish invention or commercialization; low for application stage and degree, and organizational significance, because decisive baseline evidence is absent.",
+  "value_opportunity_implication": "If measured, reviewed drafts could free agent time or improve response consistency; value capture depends on contracts, quality, full costs and customer behavior.",
+  "risk_governance_implication": "Early rollout may increase rework or client harm and delayed response may miss an opportunity, but their relative importance is withheld until workflow and customer economics are known.",
+  "recommendation_management_implication": "Request deployment logs, before/after workflow and roles, customer contract and revenue mix, and measured reviewed cost before assigning the contested labels.",
+  "change_monitoring_triggers": [
+    "A dated production-use record resolves proposed versus implemented stage",
+    "A before/after workflow map resolves incremental versus breakthrough degree",
+    "Revenue and customer-term evidence permits organizational significance judgment"
+  ],
+  "abstention_or_more_information_needed": [
+    "Withhold achieved innovation, successful commercialization, incremental/breakthrough degree and organizational significance until deployment, baseline, value-capture and outcome evidence is supplied."
+  ],
+  "organization_specific_finding": "First use, if true, would establish organizational novelty only. Organizational Significance: Withheld. Revenue mix, prior workflow, deployment scale and customer terms are unknown; Low, Moderate or High cannot be discriminated. The manager's 'revolutionary' description does not establish a global invention or business-model outcome."
+}

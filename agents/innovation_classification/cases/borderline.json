@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Existing large-language-model text generation service",
+  "intended_application": "Draft replies to routine customer-support messages from an approved knowledge base; a human agent reviews and sends each reply",
+  "organization": "Cedar Services, a fictional service provider",
+  "industry_sector": "Customer support services",
+  "business_need": "Improve response quality and handling time",
+  "users_stakeholders": "Support staff, clients, end customers",
+  "adoption_posture": "Interested in a rapid rollout",
+  "capabilities_constraints": "A manager says the system is 'revolutionary' and 'already in use,' but provides no deployment records, prior workflow, role changes, customer terms, revenue mix, or results.",
+  "risk_consequence_context": "Answers may be wrong; the extent of actual human review is unverified",
+  "management_question": "Is this a breakthrough invention and commercially successful innovation?",
+  "time_horizon": "12 months",
+  "additional_context": "Constructed ambiguous case. The quoted labels are unverified assertions. Keep the same underlying LLM and intended application as the primary and contrast cases."
+}
